@@ -48,8 +48,3 @@ The dataset used in this project contains breast cancer diagnostic information, 
 ## Results
 
 The final model achieved high accuracy and precision in distinguishing between benign and malignant tumors, with comprehensive evaluation metrics supporting its reliability. This model demonstrates a solid foundation in both machine learning and medical data analysis.
-
-
----
-
-This README is ATS-optimized, emphasizing skills, technologies, and the impact of the project. Be sure to replace `yourusername` with your actual GitHub username and add any unique findings or results specific to this project. Let me know if you'd like further customization!
