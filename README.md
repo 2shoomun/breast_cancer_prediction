@@ -37,6 +37,8 @@ To replicate this project:
 
 The dataset used in this project contains breast cancer diagnostic information, including various tumor features. Each sample is labeled as benign or malignant, making it ideal for binary classification.
 
+[Download the dataset here](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
+
 ## Model Workflow
 
 1. **Data Preprocessing**: Handled missing values, standardized numerical features, and encoded categorical variables.
